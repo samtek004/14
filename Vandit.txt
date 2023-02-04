@@ -1,0 +1,29 @@
+Vandit
+	web forms, web api, .net core
+	aws dynamodb, mago db
+	git and TFS
+	powershell scripting and automation
+	
+microsoft 
+	development[api backend
+			7 APIS 
+				fetch 
+					flat files location 
+			and documentation 
+			+ POC]
+			
+	1.JWT Authentication
+	2. config around jwt token startup
+	3.autnticator controller
+	4. security token
+	
+	Logging ..log4net
+		aws cloudworks
+	
+	singleton	= logging 
+	factory  	= Payments .cards, cash, paymentoption .. pass it to factory 
+	DI		= constructor dependency injection.. start
+	teraform
+	powershell automaction ... publisihng nughet 
+	
+	
