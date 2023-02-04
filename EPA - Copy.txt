@@ -1,0 +1,33 @@
+Service
+"https://aurorawebsvcdev.cleanharbors.com/WcfEPAIDValidations/EPAIDValidations.svc  -- Working
+"http://aurorawebsvcdev.cleanharbors.com/CwtSapServices/CwtSapService.svc  --Working
+http://aurorawebsvcdev.cleanharbors.com/CwtQ2CServices/Q2CServices.svc  --Working
+http://aurorawebsvc.cleanharbors.com/Cwt.WeeklyPlanningService/WeeklyPlanningService.svc
+ http://aurorawebsvc.cleanharbors.com/Cwt.ReportServicesWeb/CwtReportServicesWeb.svc
+http://aurorawebsvc.cleanharbors.com/Cwt.BackgroundServicesWeb/CwtBackgroundServicesWeb.svc
+
+
+
+EPAIDValidations.svc  path:**/main/**
+CwtSapService.svc  path:**/main/**
+Q2CServices.svc path:**/main/**
+WeeklyPlanningService.svc path:**/main/**
+CwtReportServicesWeb.svc path:**/main/**
+CwtBackgroundServicesWeb.svc path:**/main/**
+
+
+
+EPAIDValidations.svc
+CwtSapService.svc
+Q2CServices.svc
+WeeklyPlanningService.svc
+CwtReportServicesWeb.svc
+CwtBackgroundServicesWeb.svc
+
+
+https://aurorawebsvcdev.cleanharbors.com/WcfEPAIDValidations/EPAIDValidations.svc
+http://aurorawebsvcdev.cleanharbors.com/CwtSapServices/CwtSapService.svc
+http://aurorawebsvcdev.cleanharbors.com/CwtQ2CServices/Q2CServices.svc
+http://aurorawebsvc.cleanharbors.com/Cwt.WeeklyPlanningService/WeeklyPlanningService.svc
+http://aurorawebsvc.cleanharbors.com/Cwt.ReportServicesWeb/CwtReportServicesWeb.svc
+http://aurorawebsvc.cleanharbors.com/Cwt.BackgroundServicesWeb/CwtBackgroundServicesWeb.svc
